@@ -9,4 +9,3 @@
   <img alt="UX/UI Design, Protótipos de alta fidelidade, Design Systems, HTML, React, TypeScript, Figma, Adobe CC, Microsoft Clarity, Google Analytics, Animação, Ilustração e colagem, Produção musical, Edição de vídeo" src="assets/marquee-light.svg" width="100%">
 </picture>
 
-Curioso em tempo integral, sou um pouco de tudo: apaixonado por música, ilustrador, entusiasta de tecnologia, nerd de assuntos aleatórios, e já há uma década transformei minha vontade de criar em profissão.
